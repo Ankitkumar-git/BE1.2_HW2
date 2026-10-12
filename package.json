@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "create:movie": "node createMovie.js",
+    "create:restaurant": "node createRestaurant.js",
     "seed:books": "node seed.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
